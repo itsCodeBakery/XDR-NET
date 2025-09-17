@@ -1,0 +1,1 @@
+run_id,clahe,reweight,attention,tta,params_m,latency_ms,val_f1,val_auc,gpu,timestamp_utc

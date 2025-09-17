@@ -7,3 +7,6 @@ __pycache__/
 Thumbs.db
 # Large local artifacts
 *.log
+
+Ablation Study/*/cache/
+Ablation Study/*/ckpt/
