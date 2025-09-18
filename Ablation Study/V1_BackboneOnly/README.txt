@@ -30,3 +30,10 @@ Multi-class AUC (One-vs-Rest):
 AUC = (1/C) Σ AUC(class c)
 
 Results are stored in metrics_v1.csv, metrics.json, and training plots.
+
+Efficiency Metrics (V1):
+- Latency (batch=1): mean=11.198 ms (p50=11.142, p90=11.688, p95=11.797)
+- Throughput (batch=32): 1400.74 img/s
+- Params: 4.014 M
+- MACs: 413.87M | FLOPs (≈2*MACs): 827.74M
+Note: FLOPs estimated as 2×MACs (conventional conv op assumption). Measured with thop if available.
