@@ -1,0 +1,14 @@
+{
+  "variant": "V3_ClassReweighting",
+  "img_size": 224,
+  "batch_for_throughput": 32,
+  "latency_ms_mean_b1": 10.7841,
+  "latency_ms_p50_b1": 10.6792,
+  "latency_ms_p90_b1": 11.1176,
+  "latency_ms_p95_b1": 11.4383,
+  "throughput_img_per_sec_b32": 1245.79,
+  "params_M": 4.014,
+  "macs": 413871424.0,
+  "flops": 827742848.0,
+  "notes": "Latency via CUDA events if GPU; AMP=True."
+}
