@@ -101,7 +101,7 @@ We generate class-discriminative **Grad-CAM** overlays from the final convolutio
 
 ## Reproducibility (Kaggle / Local)
 
-- **Dataset:** APTOS 2019 (add on Kaggle and point `train_images/` + `train.csv`)  
+- **Dataset:** APTOS 2019/ EyePACS / IDRiD / Messidor (add on Kaggle and point `train_images/` + `train.csv`)  
 - **Env:** Python 3.10+, PyTorch 2.x, `timm`, `torchvision`, `scikit-learn`, `pandas`, `matplotlib`  
 - **Run:** See `Proposed Methodology/code/` for XDR-Net and `BaseLineExperement/*/code/` for baselines  
 - **Explainability:** Grad-CAM scripts reproduce the class-wise grids shown above
