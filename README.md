@@ -48,9 +48,22 @@ We apply a reproducible, screening-oriented preprocessing pipeline:
   - ResNet-50 — Acc **82.73%**, Macro-F1 **70.32%**
   - ConvNeXt-Base — Acc **81.04%**, Macro-F1 **66.18%**
 
-**Confusion matrix (counts + normalized)**
+**Confusion matrix (APTOS)**
 
 ![Confusion Matrix](https://github.com/ItsCodeBakery/XDR-NET/blob/main/Proposed%20Methodology/plots/confusion_matrix_counts_vs_normalized.png)
+
+**Confusion matrix (EyePACS)**
+
+![Confusion Matrix](https://github.com/ItsCodeBakery/XDR-NET/blob/main/Proposed%20Methodology/plots/cmEyePacs.png)
+
+**Confusion matrix (IDRiD)**
+![Confusion Matrix](https://github.com/ItsCodeBakery/XDR-NET/blob/main/Proposed%20Methodology/plots/cmIDriD.png)
+
+
+**Confusion matrix (Messidor)**
+
+![Confusion Matrix](https://github.com/ItsCodeBakery/XDR-NET/blob/main/Proposed%20Methodology/plots/cmMessidor.png)
+
 
 ---
 
