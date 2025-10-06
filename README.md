@@ -78,8 +78,10 @@ We generate class-discriminative **Grad-CAM** overlays from the final convolutio
 
 **Class-wise Grad-CAM montage**
 
+![Grad-CAM](https://github.com/ItsCodeBakery/XDR-NET/blob/main/Proposed%20Methodology/plots/EyesPacs.JPG)
 ![Grad-CAM](https://github.com/ItsCodeBakery/XDR-NET/blob/main/Proposed%20Methodology/plots/APTOS.JPG)
 ![Grad-CAM](https://github.com/ItsCodeBakery/XDR-NET/blob/main/Proposed%20Methodology/plots/IRDiD.JPG)
+
 ---
 
 ---
