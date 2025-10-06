@@ -38,7 +38,7 @@ We apply a reproducible, screening-oriented preprocessing pipeline:
 
 ---
 
-## Results (APTOS 2019)
+## Results
 
 **Validation split:** 1,805 images (five classes)
 
@@ -69,7 +69,7 @@ We apply a reproducible, screening-oriented preprocessing pipeline:
 
 ## 📉 Learning Curves
 
-The learning curves indicate stable optimization and good generalization: validation **accuracy** and **macro-F1** steadily improve and closely track training metrics, while the **loss** decreases without divergence. The absence of large gaps between training and validation curves suggests that class rebalancing, label smoothing, and cosine-scheduled AdamW effectively mitigate overfitting on APTOS.
+The learning curves indicate stable optimization and good generalization: validation **accuracy** and **macro-F1** steadily improve and closely track training metrics, while the **loss** decreases without divergence. The absence of large gaps between training and validation curves suggests that class rebalancing, label smoothing, and cosine-scheduled AdamW effectively mitigate overfitting on benchmarks.
 
 <div align="center">
 
