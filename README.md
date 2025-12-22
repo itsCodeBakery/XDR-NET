@@ -717,24 +717,7 @@ If you use this code or methodology in your research, please cite our paper:
 
 ---
 
-## 👥 Authors & Affiliations
 
-**Syed Shayan Ali Shah**¹  
-**Faisal Saeed**²* (Corresponding Author)  
-**Muhammad Umair Raza**²  
-**Muhammad Diyan**³  
-
-¹ School of Computer Science and Information Technology, Institute of Management Sciences, Peshawar, 25000, Pakistan  
-² College of Computer Science and Software Engineering, Shenzhen University, Shenzhen, 518060, China  
-³ Department of Computing and Games, Teesside University, Middlesbrough, United Kingdom  
-
-**Correspondence:**
-- Email: bscsfaisal821@gmail.com (Faisal Saeed)
-- Email: shayan.ali@imsciences.edu.pk (Syed Shayan Ali Shah)
-- Email: umair@email.szu.edu.cn (Muhammad Umair Raza)
-- Email: M.Diyan@tees.ac.uk (Muhammad Diyan)
-
----
 
 ## 🤝 Acknowledgments
 
