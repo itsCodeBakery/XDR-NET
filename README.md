@@ -701,7 +701,107 @@ Key hyperparameters with tested ranges:
 
 ---
 
+## 📖 Citation
+
+If you use this code or methodology in your research, please cite our paper:
 
 ```bibtex
 @article{shah2025xdrnet,
-  title={XD
+  title={XDR-Net: A Hybrid Convolution Single-Layer Attention Model with Balanced Optimization for Diabetic Retinopathy Detection},
+  author={Shah, Syed Shayan Ali and Saeed, Faisal and Raza, Muhammad Umair and Diyan, Muhammad},
+  journal={Springer Scientific Reports (Under Review)},
+  year={2025},
+  note={Code: https://github.com/ItsCodeBakery/XDR-NET}
+}
+```
+
+---
+
+## 👥 Authors & Affiliations
+
+**Syed Shayan Ali Shah**¹  
+**Faisal Saeed**²* (Corresponding Author)  
+**Muhammad Umair Raza**²  
+**Muhammad Diyan**³  
+
+¹ School of Computer Science and Information Technology, Institute of Management Sciences, Peshawar, 25000, Pakistan  
+² College of Computer Science and Software Engineering, Shenzhen University, Shenzhen, 518060, China  
+³ Department of Computing and Games, Teesside University, Middlesbrough, United Kingdom  
+
+**Correspondence:**
+- Email: bscsfaisal821@gmail.com (Faisal Saeed)
+- Email: shayan.ali@imsciences.edu.pk (Syed Shayan Ali Shah)
+- Email: umair@email.szu.edu.cn (Muhammad Umair Raza)
+- Email: M.Diyan@tees.ac.uk (Muhammad Diyan)
+
+---
+
+## 🤝 Acknowledgments
+
+We thank:
+- Kaggle for hosting APTOS 2019 and EyePACS datasets
+- ADCIS for the Messidor database
+- IEEE DataPort for the IDRiD dataset
+- The open-source community for PyTorch and timm
+
+---
+
+## 🔮 Future Work
+
+- [ ] **Uncertainty Quantification**: Bayesian deep learning for prediction confidence
+- [ ] **Multimodal Integration**: Combine fundus + OCT imaging
+- [ ] **Mobile Deployment**: TFLite/ONNX export for edge devices
+- [ ] **Ordinal Regression**: Exploit ordinal nature of DR severity
+- [ ] **Few-Shot Learning**: Adapt to rare DR subtypes
+- [ ] **Temporal Modeling**: Track disease progression over time
+- [ ] **Fairness Analysis**: Evaluate performance across demographics
+
+---
+
+## 📝 License
+
+This project is licensed under the MIT License:
+
+```
+MIT License
+
+Copyright (c) 2025 XDR-Net Contributors
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+```
+
+---
+
+## 📞 Support & Contact
+
+- **Issues**: [GitHub Issues](https://github.com/ItsCodeBakery/XDR-NET/issues)
+- **Pull Requests**: Contributions welcome!
+- **Email**: shayan.ali@imsciences.edu.pk
+
+---
+
+## 🌟 Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=ItsCodeBakery/XDR-NET&type=Date)](https://star-history.com/#ItsCodeBakery/XDR-NET&Date)
+
+---
+
+**Status**: 🟡 Paper Under Review | 🟢 Code Available | 🔵 Active Development
+
+**Last Updated**: December 2025
