@@ -701,21 +701,6 @@ Key hyperparameters with tested ranges:
 
 ---
 
-## 📖 Citation
-
-If you use this code or methodology in your research, please cite our paper:
-
-```bibtex
-@article{shah2025xdrnet,
-  title={XDR-Net: A Hybrid Convolution Single-Layer Attention Model with Balanced Optimization for Diabetic Retinopathy Detection},
-  author={Shah, Syed Shayan Ali and Saeed, Faisal and Raza, Muhammad Umair and Diyan, Muhammad},
-  journal={Springer Scientific Reports (Under Review)},
-  year={2025},
-  note={Code: https://github.com/ItsCodeBakery/XDR-NET}
-}
-```
-
----
 
 
 
