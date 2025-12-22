@@ -8,7 +8,7 @@
 
 Official implementation of **XDR-Net**, a compact hybrid CNN-Transformer framework for automated diabetic retinopathy screening that combines CLAHE-based normalization, class-aware sampling, an EfficientNet backbone, and a lightweight single-layer self-attention bridge.
 
-> **📄 Paper Status**: Submitted to Springer Scientific Reports (Under Review)  
+> **📄 Paper Status**: Submitted to Visual Computing for Industry, Biomedicine, and Art(Springer, 2025) (Under Review)  
 > **🎯 Key Achievement**: 97.40% accuracy on APTOS 2019, outperforming Swin-T by +1.58% and ViT by +3.07%
 
 ---
