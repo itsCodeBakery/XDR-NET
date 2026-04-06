@@ -1,6 +1,6 @@
 # XDR-Net: A Hybrid Convolution Single-Layer Attention Model with Balanced Optimization for Diabetic Retinopathy Detection
 
-[![Paper: Springer (Under Review)](https://img.shields.io/badge/Paper-Springer%20Under%20Review-yellow.svg)](https://github.com/ItsCodeBakery/XDR-NET)
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Python: 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
 [![Framework: PyTorch](https://img.shields.io/badge/Framework-PyTorch-ee4c2c.svg)](https://pytorch.org/)
